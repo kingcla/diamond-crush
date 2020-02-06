@@ -1,0 +1,384 @@
+# depslib dependency file v1.0
+1368130243 source:d:\documenti\codeblockprojects\gametest\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1368118240 d:\documenti\codeblockprojects\gametest\sdl_image\include\sdl_image.h
+	"SDL\SDL.h"
+	"SDL\SDL_version.h"
+	"SDL\begin_code.h"
+	"SDL\close_code.h"
+
+1325788834 c:\sdl-1.2.15\include\sdl\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1368284043 source:d:\documenti\codeblockprojects\gametest\src\gem.cpp
+	"Gem.h"
+
+1368283826 d:\documenti\codeblockprojects\gametest\include\gem.h
+
+1368284038 source:d:\documenti\codeblockprojects\gametest\src\gemblock.cpp
+	"GemBlock.h"
+
+1368210087 d:\documenti\codeblockprojects\gametest\include\gemblock.h
+	"Gem.h"
+
+1369436185 source:d:\documenti\codeblockprojects\gametest\src\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"Engine.h"
+
+1369434019 source:d:\documenti\codeblockprojects\gametest\src\engine.cpp
+	"Engine.h"
+	"SplashScreen.h"
+	"Instruction.h"
+	"Game.h"
+	"EndState.h"
+
+1369423960 d:\documenti\codeblockprojects\gametest\src\engine.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_mixer.h>
+	<SDL/SDL_ttf.h>
+	"GameState.h"
+	"Sprite.h"
+	"Timer.h"
+	"AnimSprite.h"
+	"Sound.h"
+
+1369429821 d:\documenti\codeblockprojects\gametest\src\timer.h
+	<SDL/SDL.h>
+
+1369429738 source:d:\documenti\codeblockprojects\gametest\src\timer.cpp
+	"Timer.h"
+
+1368283826 d:\documenti\codeblockprojects\gametest\src\gem.h
+
+1368456107 d:\documenti\codeblockprojects\gametest\src\gemblock.h
+	"Gem.h"
+
+1369434371 source:d:\documenti\codeblockprojects\gametest\src\instruction.cpp
+	"Instruction.h"
+
+1369433667 d:\documenti\codeblockprojects\gametest\src\instruction.h
+	"GameState.h"
+	"Engine.h"
+	"Sprite.h"
+
+1369433504 d:\documenti\codeblockprojects\gametest\src\gamestate.h
+
+1369423574 source:d:\documenti\codeblockprojects\gametest\src\game.cpp
+	<iostream>
+	"Game.h"
+
+1369436070 d:\documenti\codeblockprojects\gametest\src\game.h
+	<stdlib.h>
+	<vector>
+	"Engine.h"
+	"DropAnim.h"
+	"SwapAnim.h"
+	"FuseAnim.h"
+
+1368443166 source:d:\documenti\codeblockprojects\gametest\src\statemanager.cpp
+	"StateManager.h"
+	"Instruction.h"
+	"Game.h"
+
+1368443902 d:\documenti\codeblockprojects\gametest\src\statemanager.h
+	"GameState.h"
+
+1368288505 d:\documenti\codeblockprojects\gametest\src\title.h
+	"GameState.h"
+
+1368288528 source:d:\documenti\codeblockprojects\gametest\src\title.cpp
+	"Title.h"
+
+1368821451 d:\documenti\codeblockprojects\gametest\src\texture.h
+
+1368389829 source:d:\documenti\codeblockprojects\gametest\src\texture.cpp
+	"Texture.h"
+
+1368404989 d:\documenti\codeblockprojects\gametest\src\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	"Global.h"
+	"StateManager.h"
+
+1368436257 d:\documenti\codeblockprojects\gametest\src\global.h
+	"Engine.h"
+
+1368436301 d:\documenti\codeblockprojects\gametest\src\main.h
+	"Engine.h"
+
+1325789340 c:\sdl-1.2.15\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1369428026 source:d:\documenti\codeblockprojects\gametest\src\dropanim.cpp
+	"DropAnim.h"
+
+1369427556 d:\documenti\codeblockprojects\gametest\src\dropanim.h
+	"GameAnim.h"
+	"Game.h"
+
+1369429060 d:\documenti\codeblockprojects\gametest\src\gameanim.h
+
+1325793194 c:\sdl-1.2.15\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1369436518 source:d:\documenti\codeblockprojects\gametest\src\swapanim.cpp
+	"SwapAnim.h"
+
+1369429393 d:\documenti\codeblockprojects\gametest\src\swapanim.h
+	"GameAnim.h"
+	"Game.h"
+
+1369427167 source:d:\documenti\codeblockprojects\gametest\src\animsprite.cpp
+	"AnimSprite.h"
+
+1369426979 d:\documenti\codeblockprojects\gametest\src\animsprite.h
+	"Sprite.h"
+
+1369432339 d:\documenti\codeblockprojects\gametest\src\sprite.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1369432362 source:d:\documenti\codeblockprojects\gametest\src\sprite.cpp
+	"Sprite.h"
+
+1369429016 d:\documenti\codeblockprojects\gametest\src\fuseanim.h
+	<vector>
+	"Engine.h"
+	"GameAnim.h"
+
+1369428743 source:d:\documenti\codeblockprojects\gametest\src\fuseanim.cpp
+	"FuseAnim.h"
+
+1369434347 source:d:\documenti\codeblockprojects\gametest\src\endstate.cpp
+	"EndState.h"
+
+1369431547 d:\documenti\codeblockprojects\gametest\src\endstate.h
+	"GameState.h"
+	"Engine.h"
+	"Sprite.h"
+
+1369430642 source:d:\documenti\codeblockprojects\gametest\src\sound.cpp
+	"Sound.h"
+
+1369430147 d:\documenti\codeblockprojects\gametest\src\sound.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1369434083 source:d:\documenti\codeblockprojects\gametest\src\splashscreen.cpp
+	"SplashScreen.h"
+
+1369433650 d:\documenti\codeblockprojects\gametest\src\splashscreen.h
+	"GameState.h"
+	"Engine.h"
+	"Sprite.h"
+

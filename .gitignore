@@ -1,3 +1,7 @@
+#Visual Sudio
+/.vs
+/.vscode
+
 # Prerequisites
 *.d
 

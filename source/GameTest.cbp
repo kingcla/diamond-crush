@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DiamondCrush" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DiamondCrush" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lSDL_image" />
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_ttf" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DiamondCrush" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lSDL_image" />
+					<Add option="-lSDL_mixer" />
+					<Add option="-lSDL_ttf" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-g" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="lib" />
+		</Linker>
+		<Unit filename="src/AnimSprite.cpp" />
+		<Unit filename="src/AnimSprite.h" />
+		<Unit filename="src/DropAnim.cpp" />
+		<Unit filename="src/DropAnim.h" />
+		<Unit filename="src/EndState.cpp" />
+		<Unit filename="src/EndState.h" />
+		<Unit filename="src/Engine.cpp" />
+		<Unit filename="src/Engine.h" />
+		<Unit filename="src/FuseAnim.cpp" />
+		<Unit filename="src/FuseAnim.h" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/Game.h" />
+		<Unit filename="src/GameAnim.h" />
+		<Unit filename="src/GameState.h" />
+		<Unit filename="src/Instruction.cpp" />
+		<Unit filename="src/Instruction.h" />
+		<Unit filename="src/Sound.cpp" />
+		<Unit filename="src/Sound.h" />
+		<Unit filename="src/SplashScreen.cpp" />
+		<Unit filename="src/SplashScreen.h" />
+		<Unit filename="src/Sprite.cpp" />
+		<Unit filename="src/Sprite.h" />
+		<Unit filename="src/SwapAnim.cpp" />
+		<Unit filename="src/SwapAnim.h" />
+		<Unit filename="src/Timer.cpp" />
+		<Unit filename="src/Timer.h" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/main.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<wxsmith version="1">
+				<gui name="wxWidgets" src="" main="" init_handlers="necessary" language="CPP" />
+			</wxsmith>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
